@@ -1,4 +1,4 @@
-Bot.register('PenguinCoder', function(game_state, player_state, move) {
+Bot.register('PenguinBot', function(game_state, player_state, move) {
   var me = game_state.me;
   var board = game_state.board;
   var moves = board.safe_directions(me);
