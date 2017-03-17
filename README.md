@@ -1,4 +1,4 @@
 submission2
 ===========
 
-submission
+submission for coding competition, Fall 2013
